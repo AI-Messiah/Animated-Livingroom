@@ -188,7 +188,7 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine
 
 	Texture2D leatherNorm;
 	leatherNorm.window = gWindow;
-	leatherNorm.loadTexture("leather_red_03_nor_gl_4k.png");
+	leatherNorm.loadTexture("leather_red_03_nor_gl_4k.jpg");
 
 	Texture2D leatherRou;
 	leatherRou.window = gWindow;
