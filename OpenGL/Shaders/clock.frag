@@ -33,7 +33,7 @@ void main(){
 			break;
 		case 4:
 			if (texture(Texture3, TexCoord).r > .5) discard;
-			color = vec3(.5, .5, .5);
+			color = vec3(.25, .25, .25);
 			break;
 		case 5:
 			if (texture(Texture4, TexCoord).r > .5) discard;			
