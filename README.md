@@ -7,5 +7,32 @@ This project is made specifically for Windows but can easily be adapted to Mac o
 
 I have made an OpenGL version and I might add a Vulkan version later, but I will not include DirectX.
 
+
+# Movement
+W - Camera forward
+
+S - Camera backward
+
+A - Camera left
+
+D - Camera right
+
+Z - Camera up
+
+X - Camera down
+
+O - Zoom in
+
+P - Zoom out
+
+UP - Rotate up
+
+Down - Rotate Down
+
+Left - Rotate left
+
+Right - Rotate right
+
+
 # OpenGL version
 requires: GLEW, GLFW, stb_image, Assimp and IrrKlang 
